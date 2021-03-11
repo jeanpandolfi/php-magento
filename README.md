@@ -2,7 +2,7 @@
 Repositório para o Dockerfile:whale2: da imagem https://hub.docker.com/r/jeanpandolfi/php-magento
 
 ## Pra que serve essa imagem?
- Essa imagem pode ser utilizada para executar o Magento 2, visto que já tem suas dependências instaladas usando a ferramenta https://github.com/mlocati/docker-php-extension-installer que está configurado na imagem.
+ Essa imagem pode ser utilizada para executar o Magento 2, visto que tem suas dependências instaladas usando a ferramenta https://github.com/mlocati/docker-php-extension-installer que está configurado na imagem.
  
 ## Extensões instaladas
   * *gd*
@@ -30,4 +30,4 @@ Repositório para o Dockerfile:whale2: da imagem https://hub.docker.com/r/jeanpa
 
 Se esse repositório te ajudou de alguma forma de um :star: como agradecimento :wink: :grinning:.
 
-![alt text](https://github.com/jeanpandolfi/php-magento/master/image.jpg?raw=true)
+![](https://raw.githubusercontent.com/jeanpandolfi/php-magento/master/image.png)
