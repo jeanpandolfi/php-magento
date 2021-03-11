@@ -1,5 +1,5 @@
-# php-magento
-Repositório para o Dockerfile da imagem https://hub.docker.com/r/jeanpandolfi/php-magento
+# php-magento :elephant:
+Repositório para o Dockerfile:whale2: da imagem https://hub.docker.com/r/jeanpandolfi/php-magento
 
 ## Pra que serve essa imagem?
  Essa imagem pode ser utilizada para executar o Magento 2, visto que já tem suas dependências instaladas usando a ferramenta https://github.com/mlocati/docker-php-extension-installer que está configurado na imagem.
@@ -27,4 +27,7 @@ Repositório para o Dockerfile da imagem https://hub.docker.com/r/jeanpandolfi/p
   
  ### Dicas
  * No momento em que você for colocar o host do seu banco de dados coloque o IP `127.0.0.1` ao invés de `localhost`.
- 
+
+Se esse repositório te ajudou de alguma forma de um :star: como agradecimento :wink: :grinning:.
+
+![alt text](https://github.com/jeanpandolfi/php-magento/master/image.jpg?raw=true)
