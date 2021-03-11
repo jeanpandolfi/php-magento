@@ -30,4 +30,4 @@ Repositório para o Dockerfile:whale2: da imagem https://hub.docker.com/r/jeanpa
 
 Se esse repositório te ajudou de alguma forma de um :star: como agradecimento :wink: :grinning:.
 
-![](https://raw.githubusercontent.com/jeanpandolfi/php-magento/master/image.png)
+![](https://raw.githubusercontent.com/jeanpandolfi/php-magento/master/image2.png)
